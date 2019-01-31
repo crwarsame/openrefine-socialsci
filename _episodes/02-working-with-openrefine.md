@@ -1,5 +1,5 @@
 ---
-title: "Working with OpenRefine"
+cutub: "Working with OpenRefine"
 teaching: 15
 exercises: 20
 questions:
